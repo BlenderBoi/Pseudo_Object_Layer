@@ -4,12 +4,11 @@
 
 Pseudo Object Layer is an Blender Addon that helps you to do a "Quick and Dirty" object grouping with some utility function that helps on working with the object.  You can Hide, Lock, Solo, Disable Modifier the object in the layer and many more. 
 
+![PseudoObjectLayer](https://user-images.githubusercontent.com/79613445/210194174-5a84d361-c287-4d3c-8286-2141a938fb37.png)
 
-  
+This addon is meant to be a Quick and Dirty Layer System, for temporary use so that you are not overwhelmed by everything in the outliner.
 
-  This addon is meant to be a Quick and Dirty Layer System, for temporary use so that you are not overwhelmed by everything in the outliner.
-
-  For actual object Organization please use Collection in the Outliner.  
+For actual object Organization please use Collection in the Outliner.  
   
   
 ## Items in the each layer (You can Turn them On / Off)
